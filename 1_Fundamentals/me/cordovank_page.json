@@ -1,0 +1,168 @@
+{
+  "url": "https://cordovank.github.io",
+  "meta": {
+    "title": "Nellie's Personal Portfolio",
+    "meta_description": "",
+    "canonical": null
+  },
+  "links": [
+    "https://cordovank.github.io/index.html",
+    "https://cordovank.github.io#hero",
+    "https://cordovank.github.io#about",
+    "https://cordovank.github.io#resume",
+    "https://cordovank.github.io#portfolio",
+    "https://cordovank.github.io#contact",
+    "https://www.linkedin.com/in/cordovank",
+    "https://www.github.com/cordovank",
+    "mailto:cordova.nellie@outlook.com",
+    "https://cordovank.github.io/assets/docs/reports/WPUExplorationsPoster2019.pdf",
+    "https://www.credly.com/badges/32b4d12f-4cfb-44c2-95cc-5b741616305f/linked_in_profile",
+    "https://www.citiprogram.org/verify/?wd6c38614-08ee-4e97-915b-c13eed96f961-60532780",
+    "https://cordovank.github.io/assets/docs/Nellie-Cordova-Resume.pdf",
+    "https://cordovank.github.io/assets/pages/project-details/rag.html",
+    "https://github.com/cordovank/RAG-guardrails",
+    "https://cordovank.github.io/assets/pages/project-details/p2r.html",
+    "https://github.com/cordovank/Plate2Recipe",
+    "https://cordovank.github.io/assets/docs/reports/P2R_Report.pdf",
+    "https://cordovank.github.io/assets/pages/project-details/qa.html",
+    "https://github.com/cordovank/GT-NLP/tree/main/5-KVMemNet-QA",
+    "https://cordovank.github.io/assets/pages/project-details/hci.html",
+    "https://cordovank.github.io/assets/docs/reports/HCI_Project.pdf",
+    "mailto:you@domain.com",
+    "https://cordovank.github.io"
+  ],
+  "visible_text": "Nellie Cordova\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAbout me\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nClear problems. Clean data. Real impact.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHi—I'm Nellie.\n\n\nCurious, practical, outcome-oriented.\n\n\n\n\n\n                    I'm a software engineer with a strong foundation in machine learning, completing an M.S. in Computer\n                    Science with a specialization in ML. My work combines practical engineering discipline with hands-on\n                    experience building end-to-end ML systems.\n                  \n\n\n\n                    Recently, I've focused on applied ML projects that blend vision, natural language understanding, and\n                    retrieval-based techniques to build practical, end-to-end ML applications. I'm also exploring\n                    agentic AI patterns at my own pace to stay aligned with emerging workflows in the field.\n                  \n\n\n\n                    Before my ML journey, I worked on a real-time payments platform where I contributed to Java-based\n                    microservices, testing automation, CI quality gates, and regulated release processes. That\n                    experience shaped how I think about reliability, monitoring, and building software that is safe to\n                    ship.\n                  \n\n\n\n                    I'm excited about roles where I can apply both ML and solid software engineering to build systems\n                    that are useful, measurable, and maintainable. If you're building products with meaningful\n                    impact —across any industry— I'd love to connect.\n                  \n\n\n\n\n\n\n\n\n\n\n\n\nSpecialization\n\n\nML-oriented SWE\n\n\n\n\n\n\nExperience Level\n\n\nMid-level (SWE) \n Early career (ML)\n\n\n\n\n\n\n\n\n\n\nEducation\n\n\nM.S. CS (ML), Georgia Tech — in progress\n\n\n\n\n\n\nLanguages\n\n\nEnglish, Spanish\n\n\n\n\n\n\n\n\n\n\n\n\n Projects\n                    \n\n\n\n\n\n\n\n                    Let's Talk\n                  \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nResume\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nProfessional Summary\n\n\n\n\nDriven software engineer transitioning to ML, combining hands-on DL/NLP/RL with production-grade\n                experience in microservices payments. Strong in experiment design, hyperparameter tuning, and\n                metrics-driven iteration. Delivers features\n                end-to-end.\n              \n\n\nInformation\n\n\n\n\n\n\n Florida, USA\n\n\n cordova.nellie@outlook.com\n\n\n +1 (908) 764-7332\n\n\n linkedin.com/in/ncordovank\n\n\n github.com/cordovank\n\n\n\n\n\n\n\n\nTechnical Skills\n\n\n\n\n\n\n\n\n\n\nML / NLP —\n Python · PyTorch · scikit-learn · NumPy · pandas\n\n\n\n                        · Transformers (ViT, GPT-2) · CNNs · RNN/LSTM · seq2seq · tokenization/embeddings ·\n                        attention/memory · fine-tuning & transfer · classification · language modeling\n                      \n\n\n\n\n\n\n\n\n\n\nData & Eval —\n Experiment design · HPO · cross-validation\n\n\n\n                        · metrics (F1, perplexity, RMSE) · visualization/reporting (Matplotlib)\n                      \n\n\n\n\n\n\n\n\n\n\nMLOps / Backend —\n Docker · CI/CD · REST/gRPC · Kafka\n\n\n\n                        · Jenkins/Maven · testing (JUnit, Cucumber) · API/perf testing (Postman, SOAP UI, JMeter) ·\n                        logging/monitoring (Geneos)\n                      \n\n\n\n\n\n\n\n\n\n\nLanguages & Tools —\n Python · Java · SQL · Git · Jupyter\n\n\n\n                        · IntelliJ · JIRA · Bitbucket · Confluence · Anaconda\n                      \n\n\n\n\n\n\n\n\nOther —\n English & Spanish (bilingual)\n                  \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nProfessional Experience\n                \n\n\n\n\n\n\nSoftware Engineer\n\n\n JPMorgan Chase & Co. | Tampa, FL\n\n\n2019 - 2021\n\n\nReal-Time Payments Platform\n\n\n\n\nContributed end-to-end across the SDLC for Java-based payments microservices and drove production\n                    readiness.\n\n\nAuthored comprehensive operational runbooks—architecture, dependencies/configs, failure modes,\n                    diagnostic checklists, decision trees, and step-by-step remediation—to enable fast triage, recovery,\n                    and self-serve on-call; provided light support on monitoring/alerting dashboards with platform/SRE.\n                  \n\n\nBuilt and maintained test automation (JUnit, Cucumber); enforced CI quality gates (tests, static\n                    analysis, coverage) to keep merges green, and executed functional/perf testing (Postman, SOAP UI,\n                    JMeter).\n                  \n\n\nManaged regulated releases: compiled release evidence (test/coverage reports, change tickets,\n                    approvals) to secure production sign-off; presented services to global production management.\n\n\nLed/participated in agile rituals (sprint planning, backlog refinement); authored\n                    technical docs; coordinated across time zones.\n\n\n\n\n\n\n\n\n2019 - 2020\n\n\n\n\nSalesforce Platform\n\n\n\n\nDelivered Salesforce data collection and reporting features for a social-impact organization.\n\n\nGathered requirements from stakeholders, translated them into technical changes, implemented the\n                    updates, and documented the work.\n\n\nEnhanced a custom Visualforce UI for clarity and consistency, and automated survey creation with\n                    declarative Flows to reduce manual setup and standardize templates.\n\n\n\n\n\n\n\n\nML Research Assistant\n\n\n CS Dept. @ William Paterson University | Wayne, NJ\n\n\n2018 - 2019\n\n\n\n\nApplied exploratory data analysis and knowledge discovery to augment prior hypothesis-driven work\n                    on teen tanning behaviors.\n\n\nImplemented and evaluated predictive models (KNN, Logistic Regression, clustering) in Python/R.\n                  \n\n\nPresented insights to faculty and students.\n                    \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nEducation\n                \n\n\n\n\n\n\nM.S. in Computer Science (Machine Learning)\n\n\n Georgia Institute of Technology | Atlanta, GA\n\n\n2022 - Present\n\n\n\n\nRelevant Coursework:\n Machine Learning, Deep Learning, Reinforcement\n                  Learning, Natural Language Processing, Network Science\n\n\n\n\n\n\nB.A. in Mathematics | Minor: Computer Science\n\n\n William Paterson University | Wayne, NJ\n\n\n2016 - 2019\n\n\nRelevant Coursework:\n Database Management Systems, Data Warehouse & Data\n                  Mining, Cloud Computing, Applied Regression Analysis\n\n\nMagna Cum Laude • Pi Mu Epsilon (National Mathematics Honor Society)\n\n\n\n\n\n\n\n\n\n\nCertifications\n                \n\n\n\n\n\n\nAWS Certified AI Practitioner\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n2025\n\n\n\n\n\n\nGroup 2 Social / Behavioral Research Investigators and Key Personnel\n                  \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCITI Program\n\n\n2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDownload Resume\n        \n\n\n\n\n\n            Preview resume (PDF)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nProjects\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n All Projects\n\n\nAI\n\n\nDL\n\n\nNLP\n\n\nUser-centered\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nRAG System with Guardrails\n\n\n\n\n\n\nFastAPI\n\n\nLLM\n\n\nFAISS\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPlate2Recipe – Food Image to Recipe Generation\n\n\n\n\n\n\nPyTorch\n\n\nViT\n\n\nGPT-2\n\n\nLSTM\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMemory-augmented QA System\n\n\n\n\n\n\nPyTorch\n\n\nNumPy\n\n\nTokenization\n\n\nattention/memory networks\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNotification System Redesign\n\n\n\n\n\n\nUX Research\n\n\nPrototyping\n\n\nUsability Testing\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLet's Connect!\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nI reply to thoughtful notes and real opportunities.\n\n\nOpen to ML/SWE roles, collabs — short intros welcome.\n\n\n\n              Rather email?\n              \ncordova.nellie@outlook.com\n\n\n\n\n\n\n\n\n\n\n\n\nUse the form — a few sentences and links are perfect.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLeave this field empty\n                    \n\n\n\n\n\n\n\n\n No mailing lists. I'll use your info only to respond.\n\n\n\n\n\n\n\n\nLoading\n\n\n\n\nYour message has been sent. Thank you!\n\n\nSend Message\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n© \n2025 Nellie Cordova. All Rights Reserved\n\n        Made with \n♥",
+  "sections": {
+    "hero": {
+      "id": "hero",
+      "present": true,
+      "header": "Nellie Cordova",
+      "text": "Nellie Cordova",
+      "links": [
+        "https://www.linkedin.com/in/cordovank",
+        "https://www.github.com/cordovank",
+        "mailto:cordova.nellie@outlook.com"
+      ]
+    },
+    "about": {
+      "id": "about",
+      "present": true,
+      "header": "About me",
+      "text": "About me\nClear problems. Clean data. Real impact.\nHi—I'm Nellie.\nCurious, practical, outcome-oriented.\nI'm a software engineer with a strong foundation in machine learning, completing an M.S. in Computer\n                    Science with a specialization in ML. My work combines practical engineering discipline with hands-on\n                    experience building end-to-end ML systems.\nRecently, I've focused on applied ML projects that blend vision, natural language understanding, and\n                    retrieval-based techniques to build practical, end-to-end ML applications. I'm also exploring\n                    agentic AI patterns at my own pace to stay aligned with emerging workflows in the field.\nBefore my ML journey, I worked on a real-time payments platform where I contributed to Java-based\n                    microservices, testing automation, CI quality gates, and regulated release processes. That\n                    experience shaped how I think about reliability, monitoring, and building software that is safe to\n                    ship.\nI'm excited about roles where I can apply both ML and solid software engineering to build systems\n                    that are useful, measurable, and maintainable. If you're building products with meaningful\n                    impact —across any industry— I'd love to connect.\nSpecialization\nML-oriented SWE\nExperience Level\nMid-level (SWE)\nEarly career (ML)\nEducation\nM.S. CS (ML), Georgia Tech — in progress\nLanguages\nEnglish, Spanish\nProjects\nLet's Talk",
+      "links": [
+        "#portfolio",
+        "#contact"
+      ]
+    },
+    "resume": {
+      "id": "resume",
+      "present": true,
+      "header": "Resume",
+      "text": "Resume\nProfessional Summary\nDriven software engineer transitioning to ML, combining hands-on DL/NLP/RL with production-grade\n                experience in microservices payments. Strong in experiment design, hyperparameter tuning, and\n                metrics-driven iteration. Delivers features\n                end-to-end.\nInformation\nFlorida, USA\ncordova.nellie@outlook.com\n+1 (908) 764-7332\nlinkedin.com/in/ncordovank\ngithub.com/cordovank\nTechnical Skills\nML / NLP —\nPython · PyTorch · scikit-learn · NumPy · pandas\n· Transformers (ViT, GPT-2) · CNNs · RNN/LSTM · seq2seq · tokenization/embeddings ·\n                        attention/memory · fine-tuning & transfer · classification · language modeling\nData & Eval —\nExperiment design · HPO · cross-validation\n· metrics (F1, perplexity, RMSE) · visualization/reporting (Matplotlib)\nMLOps / Backend —\nDocker · CI/CD · REST/gRPC · Kafka\n· Jenkins/Maven · testing (JUnit, Cucumber) · API/perf testing (Postman, SOAP UI, JMeter) ·\n                        logging/monitoring (Geneos)\nLanguages & Tools —\nPython · Java · SQL · Git · Jupyter\n· IntelliJ · JIRA · Bitbucket · Confluence · Anaconda\nOther —\nEnglish & Spanish (bilingual)\nProfessional Experience\nSoftware Engineer\nJPMorgan Chase & Co. | Tampa, FL\n2019 - 2021\nReal-Time Payments Platform\nContributed end-to-end across the SDLC for Java-based payments microservices and drove production\n                    readiness.\nAuthored comprehensive operational runbooks—architecture, dependencies/configs, failure modes,\n                    diagnostic checklists, decision trees, and step-by-step remediation—to enable fast triage, recovery,\n                    and self-serve on-call; provided light support on monitoring/alerting dashboards with platform/SRE.\nBuilt and maintained test automation (JUnit, Cucumber); enforced CI quality gates (tests, static\n                    analysis, coverage) to keep merges green, and executed functional/perf testing (Postman, SOAP UI,\n                    JMeter).\nManaged regulated releases: compiled release evidence (test/coverage reports, change tickets,\n                    approvals) to secure production sign-off; presented services to global production management.\nLed/participated in agile rituals (sprint planning, backlog refinement); authored\n                    technical docs; coordinated across time zones.\n2019 - 2020\nSalesforce Platform\nDelivered Salesforce data collection and reporting features for a social-impact organization.\nGathered requirements from stakeholders, translated them into technical changes, implemented the\n                    updates, and documented the work.\nEnhanced a custom Visualforce UI for clarity and consistency, and automated survey creation with\n                    declarative Flows to reduce manual setup and standardize templates.\nML Research Assistant\nCS Dept. @ William Paterson University | Wayne, NJ\n2018 - 2019\nApplied exploratory data analysis and knowledge discovery to augment prior hypothesis-driven work\n                    on teen tanning behaviors.\nImplemented and evaluated predictive models (KNN, Logistic Regression, clustering) in Python/R.\nPresented insights to faculty and students.\nEducation\nM.S. in Computer Science (Machine Learning)\nGeorgia Institute of Technology | Atlanta, GA\n2022 - Present\nRelevant Coursework:\nMachine Learning, Deep Learning, Reinforcement\n                  Learning, Natural Language Processing, Network Science\nB.A. in Mathematics | Minor: Computer Science\nWilliam Paterson University | Wayne, NJ\n2016 - 2019\nRelevant Coursework:\nDatabase Management Systems, Data Warehouse & Data\n                  Mining, Cloud Computing, Applied Regression Analysis\nMagna Cum Laude • Pi Mu Epsilon (National Mathematics Honor Society)\nCertifications\nAWS Certified AI Practitioner\n2025\nGroup 2 Social / Behavioral Research Investigators and Key Personnel\nCITI Program\n2024\nDownload Resume\nPreview resume (PDF)",
+      "links": [
+        "assets/docs/reports/WPUExplorationsPoster2019.pdf",
+        "https://www.credly.com/badges/32b4d12f-4cfb-44c2-95cc-5b741616305f/linked_in_profile",
+        "https://www.citiprogram.org/verify/?wd6c38614-08ee-4e97-915b-c13eed96f961-60532780",
+        "assets/docs/Nellie-Cordova-Resume.pdf",
+        "assets/docs/Nellie-Cordova-Resume.pdf"
+      ]
+    },
+    "portfolio": {
+      "id": "portfolio",
+      "present": true,
+      "header": "Projects",
+      "text": "Projects\nAll Projects\nAI\nDL\nNLP\nUser-centered\nRAG System with Guardrails\nFastAPI\nLLM\nFAISS\nPlate2Recipe – Food Image to Recipe Generation\nPyTorch\nViT\nGPT-2\nLSTM\nMemory-augmented QA System\nPyTorch\nNumPy\nTokenization\nattention/memory networks\nNotification System Redesign\nUX Research\nPrototyping\nUsability Testing",
+      "links": [
+        "assets/pages/project-details/rag.html",
+        "https://github.com/cordovank/RAG-guardrails",
+        "assets/pages/project-details/p2r.html",
+        "https://github.com/cordovank/Plate2Recipe",
+        "assets/docs/reports/P2R_Report.pdf",
+        "assets/pages/project-details/qa.html",
+        "https://github.com/cordovank/GT-NLP/tree/main/5-KVMemNet-QA",
+        "assets/pages/project-details/hci.html",
+        "assets/docs/reports/HCI_Project.pdf"
+      ]
+    },
+    "contact": {
+      "id": "contact",
+      "present": true,
+      "header": "Let's Connect!",
+      "text": "Let's Connect!\nI reply to thoughtful notes and real opportunities.\nOpen to ML/SWE roles, collabs — short intros welcome.\nRather email?\ncordova.nellie@outlook.com\nUse the form — a few sentences and links are perfect.\nLeave this field empty\nNo mailing lists. I'll use your info only to respond.\nLoading\nYour message has been sent. Thank you!\nSend Message\n©\n2025 Nellie Cordova. All Rights Reserved\nMade with\n♥",
+      "links": [
+        "mailto:you@domain.com",
+        "https://www.linkedin.com/in/cordovank",
+        "https://www.github.com/cordovank",
+        "mailto:cordova.nellie@outlook.com",
+        "#"
+      ]
+    }
+  },
+  "portfolio_items": [
+    {
+      "title": "RAG System with Guardrails",
+      "tags": [
+        "FastAPI",
+        "LLM",
+        "FAISS"
+      ],
+      "img": "https://cordovank.github.io/assets/img/project/rag.webp",
+      "link": "https://cordovank.github.io/assets/pages/project-details/rag.html"
+    },
+    {
+      "title": "Plate2Recipe – Food Image to Recipe Generation",
+      "tags": [
+        "PyTorch",
+        "ViT",
+        "GPT-2",
+        "LSTM"
+      ],
+      "img": "https://cordovank.github.io/assets/img/project/p2r.webp",
+      "link": "https://cordovank.github.io/assets/pages/project-details/p2r.html"
+    },
+    {
+      "title": "Memory-augmented QA System",
+      "tags": [
+        "PyTorch",
+        "NumPy",
+        "Tokenization",
+        "attention/memory networks"
+      ],
+      "img": "https://cordovank.github.io/assets/img/project/qa.webp",
+      "link": "https://cordovank.github.io/assets/pages/project-details/qa.html"
+    },
+    {
+      "title": "Notification System Redesign",
+      "tags": [
+        "UX Research",
+        "Prototyping",
+        "Usability Testing"
+      ],
+      "img": "https://cordovank.github.io/assets/img/project/hci.webp",
+      "link": "https://cordovank.github.io/assets/pages/project-details/hci.html"
+    }
+  ],
+  "contact": {
+    "emails": [
+      "cordova.nellie@outlook.com"
+    ],
+    "phones": [
+      "+1 (908) 764-7332"
+    ],
+    "social": {
+      "linkedin": [
+        "https://www.linkedin.com/in/cordovank"
+      ],
+      "github": [
+        "https://www.github.com/cordovank",
+        "https://github.com/cordovank/RAG-guardrails",
+        "https://github.com/cordovank/Plate2Recipe",
+        "https://github.com/cordovank/GT-NLP/tree/main/5-KVMemNet-QA"
+      ],
+      "mailto": [
+        "mailto:cordova.nellie@outlook.com",
+        "mailto:you@domain.com"
+      ]
+    }
+  }
+}
