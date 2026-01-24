@@ -6,12 +6,15 @@ It explores multi-agent workflows, tool-use, and LLM orchestration using modern 
 
 It is inspired by the Udemy [AI Engineer Agentic Course](https://www.udemy.com/course/the-complete-agentic-ai-engineering-course/?couponCode=AGENTIC_TRACK_11_25). For more information, visit the [course page](https://edwarddonner.com/2025/04/21/the-complete-agentic-ai-engineering-course/).
 
+<br>
 
-## Highlights
+## Live Demos
 
 * [Career TwinBot AI](1_Fundamentals/4_twinbot_with_tools.ipynb) ([Demo](https://huggingface.co/spaces/cordovank/career_twinbot)) - a virtual professional twin that answers questions based on your professional background.
-* [ProductLens](2_OpenAI/product_lens.ipynb) - a product comparison tool based on user's priorities.
+* [ProductLens](2_OpenAI/product_lens.ipynb) ([Demo](https://huggingface.co/spaces/cordovank/productlens)) - a product comparison tool based on user's priorities.
 
+
+<br><br>
 
 ## Environment Setup
 
@@ -32,5 +35,5 @@ uv run
 - Load environment variables with `load_dotenv(override=True)` from `.env` file in Jupyter notebooks or Python scripts.
 
 
-## License
+# License
 This project is part of the [AI Engineer Agentic](https://www.udemy.com/course/the-complete-agentic-ai-engineering-course/?couponCode=AGENTIC_TRACK_11_25) course from Udemy and follows the same licensing terms.
