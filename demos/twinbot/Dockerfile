@@ -18,4 +18,4 @@ ENV HOME=/home/user \
     PATH=/home/user/.local/bin:$PATH
 
 # Run Streamlit on port 7860
-CMD ["streamlit", "run", "app.py", "--server.port=7860", "--server.address=0.0.0.0", "--server.enableXsrfProtection=false"]
+CMD ["streamlit", "run", "src/app.py", "--server.port=7860", "--server.address=0.0.0.0", "--server.enableXsrfProtection=false"]

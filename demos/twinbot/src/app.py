@@ -1,7 +1,4 @@
 import streamlit as st
-import uuid
-
-from dotenv import load_dotenv
 from config import AppConfig, validate_config
 from context_loader import load_context
 from llm_client import get_openai_client, chat_completion, Turn
@@ -12,7 +9,6 @@ from ui_components import (
     render_page_style, 
     render_header, 
     render_thinking_loader,
-    # render_guided_prompts, 
     render_chat_header,
     render_history, 
     )
@@ -49,10 +45,11 @@ def execute_pending_request():
             user_message=prompt,
             history=[Turn(**t) for t in st.session_state.history],
         )
-    except Exception:
+    except Exception as e:
         st.session_state.is_thinking = False
         st.session_state.pending_prompt = None
         st.error("Something went wrong while contacting the model. Please try again.")
+        st.exception(e)  
         st.stop()
 
     # ------------------------------------------------------

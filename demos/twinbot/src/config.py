@@ -1,5 +1,8 @@
 from dataclasses import dataclass
 import os
+from dotenv import load_dotenv
+
+load_dotenv(override=True)
 
 @dataclass(frozen=True)
 class AppConfig:
@@ -7,8 +10,8 @@ class AppConfig:
     subtitle: str = "Explore my experience, projects, and technical background"
     tagline: str = "Responses are grounded strictly in my resume and LinkedIn profile."
 
-    linkedin_pdf_path: str = os.getenv("LINKEDIN_PDF_PATH", "me/linkedin.pdf")
-    summary_path: str = os.getenv("SUMMARY_PATH", "me/summary.txt")
+    linkedin_pdf_path: str = os.getenv("LINKEDIN_PDF_PATH", "src/me/linkedin.pdf")
+    summary_path: str = os.getenv("SUMMARY_PATH", "src/me/summary.txt")
     name: str = os.getenv("TWINBOT_NAME", "Nellie")
 
     # ------------------------------------------------------
@@ -39,9 +42,18 @@ class AppConfig:
 
 def validate_config(cfg: AppConfig) -> list[str]:
     warnings: list[str] = []
+
+    if not cfg.API_KEY:
+        warnings.append("API key not set. Model calls will fail.")
+    
+    if cfg.provider in ("OLLAMA", "OPENROUTER") and not cfg.URL:
+        warnings.append("Base URL not set for provider; requests will fail.")
+
     if not cfg.MODEL_NAME:
         warnings.append("MODEL not set; using default.")
+
     # Pushover is optional
     if (cfg.pushover_token and not cfg.pushover_user) or (cfg.pushover_user and not cfg.pushover_token):
         warnings.append("Pushover is partially configured; notifications will be disabled.")
+    
     return warnings
